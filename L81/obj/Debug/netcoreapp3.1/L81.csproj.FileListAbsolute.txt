@@ -1,0 +1,11 @@
+C:\Users\Zbook15u\Desktop\L81\L81\bin\Debug\netcoreapp3.1\L81.exe
+C:\Users\Zbook15u\Desktop\L81\L81\bin\Debug\netcoreapp3.1\L81.deps.json
+C:\Users\Zbook15u\Desktop\L81\L81\bin\Debug\netcoreapp3.1\L81.runtimeconfig.json
+C:\Users\Zbook15u\Desktop\L81\L81\bin\Debug\netcoreapp3.1\L81.runtimeconfig.dev.json
+C:\Users\Zbook15u\Desktop\L81\L81\bin\Debug\netcoreapp3.1\L81.dll
+C:\Users\Zbook15u\Desktop\L81\L81\bin\Debug\netcoreapp3.1\L81.pdb
+C:\Users\Zbook15u\Desktop\L81\L81\obj\Debug\netcoreapp3.1\L81.csprojAssemblyReference.cache
+C:\Users\Zbook15u\Desktop\L81\L81\obj\Debug\netcoreapp3.1\L81.AssemblyInfoInputs.cache
+C:\Users\Zbook15u\Desktop\L81\L81\obj\Debug\netcoreapp3.1\L81.AssemblyInfo.cs
+C:\Users\Zbook15u\Desktop\L81\L81\obj\Debug\netcoreapp3.1\L81.dll
+C:\Users\Zbook15u\Desktop\L81\L81\obj\Debug\netcoreapp3.1\L81.pdb
